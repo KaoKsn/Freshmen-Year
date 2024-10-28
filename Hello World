@@ -1,0 +1,6 @@
+// Problem Statement: Write a Hello World program using C.
+#include<stdio.h>
+int main(){
+        printf("Hello World!\n");
+    return 0;
+}
